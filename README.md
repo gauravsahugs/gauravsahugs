@@ -1,6 +1,7 @@
 Gaurav sahu
 
 Hi, I am a React/Frontend Developer 👩‍💻
+
 🔭 Highlights: Currently I am working as a full-time React/Frontend Developer in Infosys.I am using Styled Components,React/Redux,Next.Js ,StoryBook,Git,Gitlab in Frontend and having a separate team for Backend.Previously I have worked in MERN Stack & TypeScript.
 
 
@@ -12,33 +13,5 @@ Hi, I am a React/Frontend Developer 👩‍💻
 
 👋 Available for: Full-time Frontend/React Developer role, anchoring in Tech Conferences and speaking in Tech Conferences/Tech Meetups.
 
-Available on:
-
-https://www.linkedin.com/in/gauravsahugs/ https://www.instagram.com/goku.____/
      
-
-Skills:
-HTML5
-
-CSS3
-
-CSS3
-
-JavaScript
-
-React
-
-Node.js
-
-Node.js
-
-Node.js
-
-SQL
-
-Git
-
-GitHub
-
-
-
+Skills: HTML5, CSS3, JavaScript, React, Node.js, SQL, Git, GitHub
