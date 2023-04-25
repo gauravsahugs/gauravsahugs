@@ -14,11 +14,11 @@ Hi, I am a React/Frontend Developer 👩‍💻
 👋 Available for: Full-time Frontend/React Developer role, anchoring in Tech Conferences and speaking in Tech Conferences/Tech Meetups.
 
 Check my work:--
- 1. E-Commerce, URL- https://minibazaar-gaurav.netlify.app/
+ 1. E-Commerce,   URL- https://minibazaar-gaurav.netlify.app/
  2. MovieWatcher, URL- https://moviewatcher-gaurav.netlify.app/
- 3. Youtube, URL- https://youtube-gaurav.netlify.app/
+ 3. Youtube,      URL- https://youtube-gaurav.netlify.app/
  4. Social Media, URL- https://social-media-gaurav.netlify.app/
- 5. OnBoarding App, URL- https://onboarding-gaurav.netlify.app/ 
+ 5. OnBoarding,   URL- https://onboarding-gaurav.netlify.app/ 
 
      
 Skills: HTML5, CSS3, JavaScript, React, Node.js, SQL, Git, GitHub
