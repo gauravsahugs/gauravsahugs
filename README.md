@@ -28,14 +28,14 @@
 
 <h3>Skills:</h3>
 
-<img align="left" alt="React Js" width="70px" height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" />
+<img align="left" alt="React Js" width="70px" height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" /> 
 <img align="left" alt="NextJS" width="60px" height="50px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
-<img align="left" alt="Node Js" width="70px" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" />
-<img align="left" alt="JavaScript" width="50px" height="50px" src="https://logowik.com/content/uploads/images/javascript.jpg" />
-<img align="left" alt="CSS" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
-<img align="left" alt="HTML5" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
+<img align="left" alt="Node Js" width="70px" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" /> 
+<img align="left" alt="JavaScript" width="50px" height="50px" src="https://logowik.com/content/uploads/images/javascript.jpg" /> 
+<img align="left" alt="CSS" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />  
+<img align="left" alt="HTML5" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" /> 
 <img align="left" alt="Starpi" width="70px" height="50px" src="https://www.cmswire.com/-/media/6f319f84dc3d4db69457aeda6ffc092f.ashx" />
-<img align="left" alt="JAVA" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="JAVA" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/java.svg" /> 
 <img align="left" alt="MySQL" width="70px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" />
 <img align="left" alt="GitHub" width="70px" height="50px" src="https://images.velog.io/images/always0ne/post/c07cb088-b502-41f2-9a6d-b89748e10e99/128-1280187_github-logo-png-github-transparent-png.png" />
 
