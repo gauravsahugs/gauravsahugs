@@ -38,10 +38,10 @@
 <img align="left" alt="JAVA" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="MySQL" width="70px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" />
 <img align="left" alt="GitHub" width="70px" height="50px" src="https://images.velog.io/images/always0ne/post/c07cb088-b502-41f2-9a6d-b89748e10e99/128-1280187_github-logo-png-github-transparent-png.png" />
-<img align="left" alt="GitLab" width="70px" height="50px" src="https://about.gitlab.com/images/press/logo/print/jpg/gitlab-logo-150.jpg" />
 
 
-  \n <h3>Connect With Me</h3>
-<a href="https://www.linkedin.com/in/gauravsahugs/"><img align="left" alt="Linkedin" width="70px"  height="50px" src="https://images.template.net/85871/free-linkedin-logo-vector-r3cq0.jpg"/></a>
-<a  href="https://twitter.com/sahugaurav80"><img align="left" alt="Twitter" width="50px" height="50px"src="https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg"/></a>
-<a  href="https://www.instagram.com/goku.____/"><img align="left" alt="Instagram" width="50px"  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
+
+<h3>Connect With Me</h3>
+ <a href="https://www.linkedin.com/in/gauravsahugs/"><img align="left" alt="Linkedin" width="70px"  height="50px" src="https://images.template.net/85871/free-linkedin-logo-vector-r3cq0.jpg"/></a>
+ <a  href="https://twitter.com/sahugaurav80"><img align="left" alt="Twitter" width="50px" height="50px"src="https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg"/></a>
+ <a  href="https://www.instagram.com/goku.____/"><img align="left" alt="Instagram" width="50px"  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
