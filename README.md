@@ -23,4 +23,4 @@ Check my work:--
      
 Skills: HTML5, CSS3, JavaScript, React, Node.js, SQL, Git, GitHub
 
-https://github.com/gauravsahugs/gauravsahugs/issues/1#issue-1686064423
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
