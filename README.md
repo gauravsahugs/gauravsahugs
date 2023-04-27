@@ -16,9 +16,13 @@
 
 <h3>Check my work:</h3>
  1. E-Commerce,   URL- https://minibazaar-gaurav.netlify.app/
+ 
  2. MovieWatcher, URL- https://moviewatcher-gaurav.netlify.app/
+ 
  3. Youtube,      URL- https://youtube-gaurav.netlify.app/
+ 
  4. Social Media, URL- https://social-media-gaurav.netlify.app/
+ 
  5. OnBoarding,   URL- https://onboarding-gaurav.netlify.app/ 
 
 <h3>Skills:</h3>
@@ -34,6 +38,7 @@
 <img align="left" alt="MySQL" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" />
 <img align="left" alt="GitHub" width="50px" src="https://images.velog.io/images/always0ne/post/c07cb088-b502-41f2-9a6d-b89748e10e99/128-1280187_github-logo-png-github-transparent-png.png" />
 <img align="left" alt="GitLab" width="50px" src="https://about.gitlab.com/images/press/logo/print/jpg/gitlab-logo-150.jpg" />
+
 
 
 <h3>Connect With Me</h3>
